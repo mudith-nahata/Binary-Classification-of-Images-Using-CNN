@@ -28,6 +28,7 @@
 ---> Devloped an Binary Classification CNN Model and trained the Model on 20k+ images on training data and prediction of testing data with 10k images where model classifies and produce the output based on the imput of the image data.
 
 ---> To extract the features of the input data, implemented different type of Convolution Operation
+
                 1) Convolution Operation
                 2) MaxPooling
                 3) Padding
