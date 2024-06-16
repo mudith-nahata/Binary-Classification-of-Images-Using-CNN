@@ -31,7 +31,7 @@
 
                 1) Convolution Operation
                 2) MaxPooling
-                3) Padding
+                3) Activation
 
 
 
